@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Aibijia Logo" width="140" />
+  <img src="./assets/banner.png" alt="Aibijia Logo" width="300" />
 
 # Aibijia：多平台抓取价格，一键比价
 
