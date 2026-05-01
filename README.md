@@ -3,7 +3,9 @@
 
 # Aibijia：多平台抓取价格，一键比价
 
-网站地址👉：[AI比价，帮你找便宜Token](https://aibijia.org)
+AI比价网站地址👉：[AI比价，帮你找便宜Token](https://aibijia.org)
+
+AI论坛地址👉：[with AI，与AI同行，积极拥抱AI浪潮](https://forum.aibijia.org/)，欢迎来这里，一起做AI「原住民」。
 </p>
 
 ---
@@ -52,16 +54,6 @@
 
 ## 现在的行情
 
-🔥🔥🔥 2026年5月1日 中午更新
-
-之前的plus pro账号，又被风控封锁了一大批。
-
-很多人开始考虑官方渠道了。
-
-但是我在某个群里看到，有人在研发新的「技术」，继续观察看看。
-
----
-
 🔥🔥🔥 2026年5月1日 更新
 
 自己手搓印尼号方法⬇️。
@@ -84,6 +76,32 @@ ChatGPT pro 20x 的价格，个人能买到的价格在240-260之间。
 今天是五一，随着OpenAI的风控策略调整，chong渠道的供应商，都开始主动要求用户退款了。
 
 <img src="./assets/tuikuan.png" alt="ChatGPT plus" width="100%" />
+
+---
+
+🔥🔥🔥 2026年5月1日 中午更新
+
+之前的plus pro账号，又被风控封锁了一大批。
+
+很多人开始考虑官方渠道了。
+
+但是我在某个群里看到，有人在研发新的「技术」，继续观察看看。
+
+---
+
+🔥🔥🔥 2026年5月1日 晚上更新
+
+<img src="./assets/tingzhixiaoshou.png" alt="ChatGPT plus" width="100%" />
+
+多个渠道已经停止销售pro账号，并启动了退款流程。
+
+<img src="./assets/over.png" alt="game over" width="100%" />
+
+很多「天才程序员」就此陨落。
+
+<img src="./assets/tiancaiyunluo.png" alt="ChatGPT plus" width="100%" />
+
+经过最近几次风控、掉号，不少人开始认真考虑订阅官方套餐，虽然贵，但是不用再担惊受怕封号了。
 
 ---
 
