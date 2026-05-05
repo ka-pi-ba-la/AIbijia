@@ -54,6 +54,14 @@ AI论坛地址👉：[with AI，与AI同行，积极拥抱AI浪潮](https://foru
 
 ## 现在的行情
 
+🔥🔥🔥 2026年5月5日 更新
+
+[冷酷杀手再次向官方举报bug渠道的ChatGPT plus账号](https://community.openai.com/t/chatgpt-plus-google-trial-loophole-now-gives-37-days-access/1380287)
+
+<img src="./assets/jubao.png" alt="ChatGPT pro" width="100%" />
+
+---
+
 🔥🔥🔥 2026年5月4日 更新
 
 截止到现在，没听说有新的卡bug开低价会员的渠道。
