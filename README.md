@@ -54,6 +54,16 @@ AI论坛地址👉：[with AI，与AI同行，积极拥抱AI浪潮](https://foru
 
 ## 现在的行情
 
+🔥🔥🔥 2026年5月14日 更新
+
+ChatGPT plus的低价账号来源渠道，几乎全面被封杀。
+
+我在几个大代理电报群和发卡平台逛了逛，plus号都缺货了，说明这一波被杀的很彻底。
+
+现在群里讨论最多的，都是从哪里可以开正规的plus、pro账号。
+
+越来越多的人，开始考虑订阅官方套餐了。
+
 🔥🔥🔥 2026年5月5日 更新
 
 [冷酷杀手再次向官方举报bug渠道的ChatGPT plus账号](https://community.openai.com/t/chatgpt-plus-google-trial-loophole-now-gives-37-days-access/1380287)
