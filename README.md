@@ -1,11 +1,13 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Aibijia Logo" width="100%" />
+<img src="./assets/banner.png" alt="Aibijia Logo" width="100%" />
 
 # Aibijia：多平台抓取价格，一键比价
 
 AI比价网站地址👉：[AI比价，帮你找便宜Token](https://aibijia.org)
 
-AI论坛地址👉：[with AI，与AI同行，积极拥抱AI浪潮](https://forum.aibijia.org/)，欢迎来这里，一起做AI「原住民」。
+AI论坛地址👉：[AI交流、vibe coding、内容创作、AI新闻、AI资源分享](https://withai.homes/)，欢迎来这里，一起做AI「原住民」。
+
+AI工具导航👉：[古法手工维护的，好用好玩的AI导航站](https://github.com/ka-pi-ba-la/awesome-ai-tools/)，感谢star。
 </p>
 
 ---
