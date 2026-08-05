@@ -12,7 +12,18 @@ AI工具导航👉：[古法手工维护的，好用好玩的AI导航站](https:
 
 ---
 
-**免责声明：本站所有内容采集自网络，仅供参考，不构成购买建议。**
+
+<a href="https://catfk.com/item/k2ml3f">
+  <img src="./assets/guanggao.png" alt="ChatGPT Plus" width="800">
+</a>
+
+[✨ ChatGPT plus 官方充值 ¥130元](https://catfk.com/item/k2ml3f/)
+
+[✨ ChatGPT Pro 5x、20x、Claude code官方充值请访问店铺](https://catfk.com/shop/4KVIPORQ)
+
+**免责声明：商品及服务由广告商家提供，与本站无关。**
+
+---
 
 ## 现在的行情
 
